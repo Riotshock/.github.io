@@ -1,3 +1,15 @@
 *{
-  font-family: "open-sans", arial;
+    font-family:"Open Sans", arial;
+    background-color:;
+}
+body{
+    color:white;
+    margin:auto;
+}
+#rickroll{
+    color:black;
+}
+#end{
+    margin:auto;
+    text-align:center;
 }
